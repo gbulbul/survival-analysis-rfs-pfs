@@ -1,8 +1,9 @@
-# Survival Analysis with Cox Proportional Hazards Model
+# Survival Analysis with Cox Proportional Hazards Model and KM estimator
 
-This project demonstrates a hands-on survival analysis workflow using the
-Cox Proportional Hazards model in Python. The analysis focuses on estimating
-hazard ratios and visualizing model coefficients for interpretability.
+This repository provides a concise, hands-on demonstration of core survival
+analysis methods implemented in Python. The project covers both non-parametric
+and semi-parametric approaches to time-to-event data, with an emphasis on
+interpretability, visualization, and methodological clarity.
 
 ---
 
